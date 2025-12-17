@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Xin's blog</title><link href="https://Xin.github.io/" rel="alternate"/><link href="https://Xin.github.io/feeds/all.atom.xml" rel="self"/><id>https://Xin.github.io/</id><updated>2025-12-17T00:00:00+08:00</updated><entry><title>我的第一篇技术博客</title><link href="https://Xin.github.io/wo-de-di-yi-pian-ji-zhu-bo-ke.html" rel="alternate"/><published>2025-12-17T00:00:00+08:00</published><updated>2025-12-17T00:00:00+08:00</updated><author><name>Xin</name></author><id>tag:xin.github.io,2025-12-17:/wo-de-di-yi-pian-ji-zhu-bo-ke.html</id><summary type="html">&lt;h1&gt;欢迎来到我的博客&lt;/h1&gt;
+&lt;p&gt;这是我用 Pelican 搭建的第一篇博客，部署在 GitHub Pages 上！&lt;/p&gt;
+&lt;h2&gt;为什么搭建技术博客？&lt;/h2&gt;
+&lt;p&gt;分享我的 CTF 实战经验、Python 脚本编写 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;欢迎来到我的博客&lt;/h1&gt;
+&lt;p&gt;这是我用 Pelican 搭建的第一篇博客，部署在 GitHub Pages 上！&lt;/p&gt;
+&lt;h2&gt;为什么搭建技术博客？&lt;/h2&gt;
+&lt;p&gt;分享我的 CTF 实战经验、Python 脚本编写技巧，和大家一起交流学习。&lt;/p&gt;
+&lt;h2&gt;代码示例（Python）&lt;/h2&gt;
+&lt;p&gt;```python&lt;/p&gt;
+&lt;h1&gt;简单的Python测试代码&lt;/h1&gt;
+&lt;p&gt;print("Hello, 我的技术博客！")&lt;/p&gt;</content><category term="学习笔记"/><category term="Pelican"/><category term="GitHub Pages"/><category term="技术博客"/></entry></feed>
